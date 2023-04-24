@@ -1,26 +1,14 @@
-### 
-EDUCATION
 
-Data Science Bootcamp, Jovian                                                                                          Mar 2022 - Ongoing
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
-
-Jaypee Institute of Information Technology, Noida, India                                                                2007-2011
-B.Tech, Biotechnology (CGPA: 8.2/10)
-Courses: Statistics & Probability, Operations Research, Bioinformatics, Programming with C
-Highlights: Top 5 in the class
-
-WORK EXPERIENCE
-
-Senior Systems Engineer  - Infosys Ltd.                                                                                       (Jun 2011 - Nov 2015)
-Management Information System (MIS) Application Development
-Used Java and PrimeFaces to develop user modules, functional utilities for a web application.  
-Developed an enterprise application to extract and transform data from excel reports. 
-Developed initially as a Proof of Concept(POC), the solution is now being used by several Indian banks.
-Data warehousing solution for Standard Bank
-Worked on ETL (Extract, Transform, Load) stages of financial data using IBM DataStage
-Implemented business logic using Transform, Lookup, Funnel etc. stages for generating insights. 
-The solution helped the bank in flagging risk indicators like credit default, dormant accounts etc. 
+### WORK EXPERIENCE
+Senior Systems Engineer  - Infosys Ltd.(Jun 2011 - Nov 2015)
+- Management Information System (MIS) Application Development
+  - Used Java and PrimeFaces to develop user modules, functional utilities for a web application.  
+  - Developed an enterprise application to extract and transform data from excel reports. 
+  - Developed initially as a Proof of Concept(POC), the solution is now being used by several Indian banks.
+- Data warehousing solution for Standard Bank
+  - Worked on ETL (Extract, Transform, Load) stages of financial data using IBM DataStage
+  - Implemented business logic using Transform, Lookup, Funnel etc. stages for generating insights. 
+  - The solution helped the bank in flagging risk indicators like credit default, dormant accounts etc. 
 
 PROJECTS (View all)
 
