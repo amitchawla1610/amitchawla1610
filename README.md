@@ -1,6 +1,6 @@
 
 ### WORK EXPERIENCE
-Senior Systems Engineer  - Infosys Ltd.(Jun 2011 - Nov 2015)
+Senior Systems Engineer - Infosys Ltd. (Jun 2011 - Nov 2014)
 - Management Information System (MIS) Application Development
   - Used Java and PrimeFaces to develop user modules, functional utilities for a web application.  
   - Developed an enterprise application to extract and transform data from excel reports. 
@@ -12,31 +12,27 @@ Senior Systems Engineer  - Infosys Ltd.(Jun 2011 - Nov 2015)
 
 ### PROJECTS
 
-Exploratory Data Analysis and Visualization of Summer Olympics Data
- https://jovian.com/amitchawla1610/eda-summer-olympics
+Exploratory Data Analysis and Visualization of Summer Olympics Data (https://jovian.com/amitchawla1610/eda-summer-olympics)
 - Cleaned & analyzed the dataset from Kaggle containing 200,000 rows & 15 columns  using Pandas
 - Created interactive visualizations (scatter plots, treemaps etc.) using Matplotlib, Seaborn & Plotly
 - Discovered that nations can improve on their medal tally by focussing solely on large medal events
 
-Forecasting energy consumption using Machine Learning (View)
-https://jovian.com/amitchawla1610/ml-energy-prediction
+Forecasting energy consumption using Machine Learning (https://jovian.com/amitchawla1610/ml-energy-prediction)
 - Cleaned & analyzed ASHRAE data with 40 million rows & 12 columns  to forecast energy consumption
 - Trained linear models, gradient boosted trees using scikit-learn, XGBoost, LightGBM
 - Achieved RMSLE of 1.646  using 4 hyperparameters on XGBoost, landing in the top 75% of Kaggle 
 
-Bookshop analysis using Excel and Tableau (View)
-Analyzed an excel dataset containing different sheets using Pivot Tables, Vlookup etc
-Visualized the dataset in Tableau Public and created a dashboard with stacked, area, line charts etc. 
-Discovered that high average book ratings are not a precursor for awards
+Bookshop analysis using Excel and Tableau (https://public.tableau.com/app/profile/amit.chawla5598/viz/ExecutiveOverviewDashboard_16792313910230/ExecutiveOverviewBookShopData?publish=yes)
+- Analyzed an excel dataset containing different sheets using Pivot Tables, Vlookup etc
+- Visualized the dataset in Tableau Public and created a dashboard with stacked, area, line charts etc. 
+- Discovered that high average book ratings are not a precursor for awards
 
-WebScraping Amazon bestsellers  (View)
-https://jovian.com/amitchawla1610/webscraping-amazon-bestsellers-project
-Scraped best selling products from amazon using Python libraries such as Requests, BeautifulSoup
-Scraped product information like title, ratings, etc. from html tags  using custom functions
-Extracted 931 rows & 5 columns and saved it to CSV file using Pandas
+WebScraping Amazon bestsellers (https://jovian.com/amitchawla1610/webscraping-amazon-bestsellers-project)
+- Scraped best selling products from amazon using Python libraries such as Requests, BeautifulSoup
+- Scraped product information like title, ratings, etc. from html tags  using custom functions
+- Extracted 931 rows & 5 columns and saved it to CSV file using Pandas
 
-SKILLS 
-
+### SKILLS 
 Skills: SQL, Java, Python, Excel, Tableau, IBM DataStage, Pandas, Scikit-Learn, Plotly
 
 
