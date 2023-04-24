@@ -10,17 +10,19 @@ Senior Systems Engineer  - Infosys Ltd.(Jun 2011 - Nov 2015)
   - Implemented business logic using Transform, Lookup, Funnel etc. stages for generating insights. 
   - The solution helped the bank in flagging risk indicators like credit default, dormant accounts etc. 
 
-PROJECTS (View all)
+### PROJECTS
 
-Exploratory Data Analysis and Visualization of Summer Olympics Data (View)
-Cleaned & analyzed the dataset from Kaggle containing 200,000 rows & 15 columns  using Pandas
-Created interactive visualizations (scatter plots, treemaps etc.) using Matplotlib, Seaborn & Plotly
-Discovered that nations can improve on their medal tally by focussing solely on large medal events
+Exploratory Data Analysis and Visualization of Summer Olympics Data
+ https://jovian.com/amitchawla1610/eda-summer-olympics
+- Cleaned & analyzed the dataset from Kaggle containing 200,000 rows & 15 columns  using Pandas
+- Created interactive visualizations (scatter plots, treemaps etc.) using Matplotlib, Seaborn & Plotly
+- Discovered that nations can improve on their medal tally by focussing solely on large medal events
 
 Forecasting energy consumption using Machine Learning (View)
-Cleaned & analyzed ASHRAE data with 40 million rows & 12 columns  to forecast energy consumption
-Trained linear models, gradient boosted trees using scikit-learn, XGBoost, LightGBM
-Achieved RMSLE of 1.646  using 4 hyperparameters on XGBoost, landing in the top 75% of Kaggle 
+https://jovian.com/amitchawla1610/ml-energy-prediction
+- Cleaned & analyzed ASHRAE data with 40 million rows & 12 columns  to forecast energy consumption
+- Trained linear models, gradient boosted trees using scikit-learn, XGBoost, LightGBM
+- Achieved RMSLE of 1.646  using 4 hyperparameters on XGBoost, landing in the top 75% of Kaggle 
 
 Bookshop analysis using Excel and Tableau (View)
 Analyzed an excel dataset containing different sheets using Pivot Tables, Vlookup etc
@@ -28,6 +30,7 @@ Visualized the dataset in Tableau Public and created a dashboard with stacked, a
 Discovered that high average book ratings are not a precursor for awards
 
 WebScraping Amazon bestsellers  (View)
+https://jovian.com/amitchawla1610/webscraping-amazon-bestsellers-project
 Scraped best selling products from amazon using Python libraries such as Requests, BeautifulSoup
 Scraped product information like title, ratings, etc. from html tags  using custom functions
 Extracted 931 rows & 5 columns and saved it to CSV file using Pandas
