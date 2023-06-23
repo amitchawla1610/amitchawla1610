@@ -3,10 +3,6 @@ Hi, I am Amit Chawla , an aspiring data scientist and software engiineer from In
 
 ### SKILLS 
 Languages and Tools
-![image](https://github.com/amitchawla1610/amitchawla1610/assets/105358933/6120df43-eb15-4d12-803c-a13dc8a31f7f)
-
-
-![image](https://github.com/amitchawla1610/amitchawla1610/assets/105358933/60661111-379d-4d13-820a-f319eabea92c)
 SQL, Java, Python, Excel, Tableau, IBM DataStage, Pandas, Scikit-Learn, Plotly
 
 ### WORK EXPERIENCE
