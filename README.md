@@ -1,4 +1,7 @@
 
+Hi, I am Amit Chawla , an aspiring data scientist and software engiineer from India. I have a keen interest in solving global challenges especially related to healthcare with data related skills and artificial intelligence. I take great care in quality, architecture especially when it comes to code. 
+
+
 ### WORK EXPERIENCE
 Senior Systems Engineer - Infosys Ltd. (Jun 2011 - Nov 2014)
 - Management Information System (MIS) Application Development
