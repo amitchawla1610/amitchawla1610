@@ -1,6 +1,10 @@
 
-Hi, I am Amit Chawla , an aspiring data scientist and software engiineer from India. I have a keen interest in solving global challenges especially related to healthcare with data related skills and artificial intelligence. I take great care in quality, architecture especially when it comes to code. 
+Hi, I am Amit Chawla , an aspiring data scientist and software engiineer from India. I have a keen interest in solving global challenges especially related to healthcare with data related skills and artificial intelligence. I take great care in quality, architecture especially when it comes to the code. 
 
+### SKILLS 
+Languages and Tools
+![image](https://github.com/amitchawla1610/amitchawla1610/assets/105358933/60661111-379d-4d13-820a-f319eabea92c)
+SQL, Java, Python, Excel, Tableau, IBM DataStage, Pandas, Scikit-Learn, Plotly
 
 ### WORK EXPERIENCE
 Senior Systems Engineer - Infosys Ltd. (Jun 2011 - Nov 2014)
@@ -38,8 +42,7 @@ WebScraping Amazon bestsellers
 - Scraped product information like title, ratings, etc. from html tags  using custom functions
 - Extracted 931 rows & 5 columns and saved it to CSV file using Pandas
 
-### SKILLS 
-Skills: SQL, Java, Python, Excel, Tableau, IBM DataStage, Pandas, Scikit-Learn, Plotly
+
 
 
 <!--
